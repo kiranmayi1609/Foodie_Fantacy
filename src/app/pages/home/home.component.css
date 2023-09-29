@@ -71,7 +71,7 @@
 .viewmorebtn{
     text-decoration:none;
     background-color:var(--primary-color);
-    /* color:#fff; */
+    color:#fff;
     padding:10px 10px;
     border-radius:5px;
     font-size:18px;

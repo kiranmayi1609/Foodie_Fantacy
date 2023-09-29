@@ -14,7 +14,7 @@
     font-weight:bold;
 }
 .buybtn{
-    /* color:; */
+    color:#fff;
     background-color: var(--primary-color);
     padding:10px 10px;
     text-decoration :none;
