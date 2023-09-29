@@ -78,6 +78,13 @@
     margin-bottom:20px;
 
 }
+@media screen and (max-width:600px) {
+    .banner{
+        height:700px;
+        
+    }
+    
+}a
 
 /* .banner h1{
     color:#fff;
